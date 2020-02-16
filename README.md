@@ -7,7 +7,7 @@
 
 In order to run the example, you must have already installed the .NET Core Runtime 3.1+
 
-Go to /bin and run SSSP.exe. The source code & Visual Studio solution can be found at the root of the repository
+Go to /bin and run SSSP.exe and either give it as input graph1.json or graph2.json, or use the random functionality to generate a random social network. The source code & Visual Studio solution can be found at /src
 
     How did you represent the social network?  Why did you choose this representation?
 	I've chosen to represent the problem using graphs, G = (V, E), where:
