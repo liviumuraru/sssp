@@ -11,3 +11,16 @@ C:\Users\main\source\repos\SSSP\obj\Release\netcoreapp3.1\SSSP.AssemblyInfo.cs
 C:\Users\main\source\repos\SSSP\obj\Release\netcoreapp3.1\SSSP.csproj.CopyComplete
 C:\Users\main\source\repos\SSSP\obj\Release\netcoreapp3.1\SSSP.dll
 C:\Users\main\source\repos\SSSP\obj\Release\netcoreapp3.1\SSSP.pdb
+C:\Users\main\source\repos\sssp_repo\sssp\src\bin\Release\netcoreapp3.1\SSSP.exe
+C:\Users\main\source\repos\sssp_repo\sssp\src\bin\Release\netcoreapp3.1\SSSP.deps.json
+C:\Users\main\source\repos\sssp_repo\sssp\src\bin\Release\netcoreapp3.1\SSSP.runtimeconfig.json
+C:\Users\main\source\repos\sssp_repo\sssp\src\bin\Release\netcoreapp3.1\SSSP.runtimeconfig.dev.json
+C:\Users\main\source\repos\sssp_repo\sssp\src\bin\Release\netcoreapp3.1\SSSP.dll
+C:\Users\main\source\repos\sssp_repo\sssp\src\bin\Release\netcoreapp3.1\SSSP.pdb
+C:\Users\main\source\repos\sssp_repo\sssp\src\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\main\source\repos\sssp_repo\sssp\src\obj\Release\netcoreapp3.1\SSSP.csprojAssemblyReference.cache
+C:\Users\main\source\repos\sssp_repo\sssp\src\obj\Release\netcoreapp3.1\SSSP.AssemblyInfoInputs.cache
+C:\Users\main\source\repos\sssp_repo\sssp\src\obj\Release\netcoreapp3.1\SSSP.AssemblyInfo.cs
+C:\Users\main\source\repos\sssp_repo\sssp\src\obj\Release\netcoreapp3.1\SSSP.csproj.CopyComplete
+C:\Users\main\source\repos\sssp_repo\sssp\src\obj\Release\netcoreapp3.1\SSSP.dll
+C:\Users\main\source\repos\sssp_repo\sssp\src\obj\Release\netcoreapp3.1\SSSP.pdb

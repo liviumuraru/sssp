@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
+using System.Threading;
 
 namespace SSSP
 {
@@ -81,6 +82,7 @@ namespace SSSP
             watch.Stop();
             Console.WriteLine("Shortest path length: " + shortestPath);
             Console.WriteLine("Computed shortest path in " + watch.ElapsedMilliseconds + " ms.");
+            Thread.Sleep(5000);
         }
 
         private struct QueueData
